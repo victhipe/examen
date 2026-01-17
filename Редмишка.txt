@@ -1,0 +1,14 @@
+Создайте Store
+Загрузите коллекцию Продуктов из Джейсона в сторе
+
+Коллекции:
+ Users 
+ Product
+
+Запускаем фронт и бэк:
+Фронт:
+cd frontend\my-react-app
+npm start
+Бэк:
+cd frontend\my-react-app
+npm start
